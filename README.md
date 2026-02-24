@@ -40,7 +40,7 @@ Permette di:
 ## 🔹 Funzionalità attuali
 
 1. Multi-dataset e pipeline-agnostico  
-2. Motore auto-adattivo ITNA-like (pesi adattivi per stabilità)  
+2. Motore auto-adattivo con pesi adattivi per stabilità funzionale  
 3. Generazione di report PDF e HTML automaticamente  
 4. Visualizzazione avanzata:
    - Boxplot cross-dataset  
