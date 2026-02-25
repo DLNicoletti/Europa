@@ -105,3 +105,11 @@ NeuroCore-Europa/
 The FS, DV, FR, and MI metrics are currently under active development and validation.
 
 This repository provides the computational framework and pipeline infrastructure, not finalized physiological or clinical interpretations.
+
+## Name Origin
+
+The framework "Europa" is named after Jupiter’s moon, reflecting its role as an observational computational layer within the NeuroCore™ / 04920∩ architecture.
+
+Developed and validated within the Project Jupyter environment, Europa operates as an adaptive signature system designed to observe, quantify, and characterize latent functional regimes across heterogeneous datasets.
+
+The name reflects its architectural position as a satellite computational layer supporting analysis, reproducibility, and cross-system comparability.
