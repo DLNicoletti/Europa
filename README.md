@@ -1,11 +1,24 @@
 # Europa – Adaptive Signature System v4.0
 
-**NeuroCore™ / 04920∩ Framework**
+**NeuroCore™ / 04920∩ Framework**  
 © 2026 Davide Luca Nicoletti
 
-**License:** Proprietary License NeuroCore™ / 04920∩
-All rights reserved. Commercial use is prohibited without explicit written permission.
+---
 
+## License
+
+This repository is licensed under the **BSD 3-Clause License**.  
+See `LICENSE.md` for full details.
+
+BSD 3-Clause allows use, modification, and distribution, including commercial use.
+
+---
+
+## Citation
+
+If you use this repository for research or publication, please cite:
+
+Davide Luca Nicoletti, Europa – Adaptive Signature System, 2026
 ---
 
 ## Overview
